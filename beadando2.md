@@ -12,6 +12,9 @@ Működés:
 2. Két lap (Tab) különböző tartalommal
 3. Jobb klikk menü Másolás/Beillesztés funkciókkal
 
+![image](https://github.com/user-attachments/assets/bdb8d6ec-9fea-46cd-bfd6-dea62fd42a72)
+
+
 ## XAML kód:
 ```c#
 <Window x:Class="Wpf_1_menuk.MainWindow"
